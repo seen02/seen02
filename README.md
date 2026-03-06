@@ -10,16 +10,16 @@
 
 ## 🛠️ Tech Stack
 ### Backend
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ### DevOps & Infrastructure
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 ## 🚀 Projects
-### mAIpt (Santa PT)]
+### mAIpt (Santa PT)
 > AI 자세 추적기능과 분석 리포트를 제공하는 운동 기록 앱
 - **기간:** 2026.02 ~ 
 - **역할:** 백엔드 API 개발 및 인프라 구축, 문서화 작업용 Notion 관리
@@ -31,11 +31,11 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[seen02]&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seen02]&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seen02&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seen02&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
 ## 📫 Contact
-- **Email:** [utreal5048@gmail.com]
+- **Email:** utreal5048@gmail.com
 - **Blog:** [기술 블로그 주소]
 - **Resume:** [노션 이력서 등 링크]

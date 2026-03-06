@@ -30,10 +30,10 @@
 - **Link:** [GitHub Repo](링크) | [배포 URL](링크) | [프로젝트 회고 블로그](링크)
 
 ## 📊 GitHub Stats
-<p align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=seen02&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seen02&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seen02&layout=compact&theme=transparent" alt="Top Langs" />
+</div>
 
 ## 📫 Contact
 - **Email:** utreal5048@gmail.com

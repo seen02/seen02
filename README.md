@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 프론트엔드 개발자가 협업하고 싶어 하는 백엔드 개발자 Seen입니다.
+## 👋 안녕하세요! 백엔드 개발자 Seen입니다.
 
 직관적이고 친절한 API 설계와 꼼꼼한 문서화를 통해 팀 전체의 생산성을 높이는 것을 중요하게 생각합니다. 단순히 기능이 동작하는 서버를 구축하는 것을 넘어, 함께 일하는 동료와 서비스 사용자를 배려하는 개발을 지향합니다.
 
@@ -28,12 +28,6 @@
   - GitHub Actions와 AWS(EC2, RDS 등)를 활용한 CI/CD 자동화 파이프라인 구축
   - [N+1 문제 해결, 쿼리 최적화 등 기술적 문제 해결 경험]
 - **Link:** [GitHub Repo](링크) | [배포 URL](링크) | [프로젝트 회고 블로그](링크)
-
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seen02&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seen02&layout=compact&theme=transparent" alt="Top Langs" />
-</div>
 
 ## 📫 Contact
 - **Email:** utreal5048@gmail.com

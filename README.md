@@ -19,17 +19,16 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 ## 🚀 Projects
-### mAIpt (Santa PT)
+### 마이피티 mAIpt
 > AI 자세 추적기능과 분석 리포트를 제공하는 운동 기록 앱
 - **기간:** 2026.02 ~ 
-- **역할:** 백엔드 API 개발 및 인프라 구축, 문서화 작업용 Notion 관리
+- **역할:** 백엔드 API, 아키텍처 개발 및 인프라 구축, CI/CD 파이프라인 관리, 문서화 작업용 Notion 관리, 어드민 페이지 구축
 - **주요 성과:**
-  - 꼼꼼한 API 명세서 작성 및 목(Mock) API 제공으로 프론트엔드 개발팀의 대기 시간 단축
+  - 꼼꼼한 API 명세서 작성 및 Mock API 제공으로 프론트엔드 개발팀의 대기 시간 단축
   - GitHub Actions와 AWS(EC2, RDS 등)를 활용한 CI/CD 자동화 파이프라인 구축
-  - [N+1 문제 해결, 쿼리 최적화 등 기술적 문제 해결 경험]
-- **Link:** [GitHub Repo](링크) | [배포 URL](링크) | [프로젝트 회고 블로그](링크)
+  - N+1 문제 해결, 쿼리 최적화 등 문제 해결 경험
+- **Link:** [GitHub Repo](링크) | [Google Plat 스토어 다운로드(추가 예정)](링크) |
 
 ## 📫 Contact
 - **Email:** utreal5048@gmail.com
-- **Blog:** [기술 블로그 주소]
-- **Resume:** [노션 이력서 등 링크]
+- **Resume:** [추가 예정]

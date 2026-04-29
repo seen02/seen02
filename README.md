@@ -30,5 +30,5 @@
 - **Link:** [GitHub Repo](링크) | [Google Plat 스토어 다운로드(추가 예정)](링크) |
 
 ## 📫 Contact
-- **Email:** utreal5048@gmail.com
+- **Email:** utreal2394@gmail.com
 - **Resume:** [추가 예정]
